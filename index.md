@@ -5,3 +5,4 @@ A list of useful tools for front end development
 - https://github.com/nodeapps/http-server
 - https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en
 - http://sandipchitale.blogspot.co.uk/2014/03/javascript-object-diagram-integration.html
+- http://livereload.com/
