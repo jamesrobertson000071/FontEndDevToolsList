@@ -7,3 +7,4 @@
 - http://sandipchitale.blogspot.co.uk/2014/03/javascript-object-diagram-integration.html
 - http://livereload.com/
 - https://github.com/substantial/browser_stack_button
+- https://github.com/petethepig/devtools-terminal
