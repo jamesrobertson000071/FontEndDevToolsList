@@ -8,3 +8,4 @@
 - http://livereload.com/
 - https://github.com/substantial/browser_stack_button
 - https://github.com/petethepig/devtools-terminal
+- https://chrome.google.com/webstore/detail/git-browser/cladogmhjppclibenkdbnjcogiaifnbd
